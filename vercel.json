@@ -6,7 +6,5 @@
       "destination": "/index.html"
     }
   ],
-  "buildCommand": {
-    "src": "echo 'No build needed'"
-  }
+  "buildCommand": "echo 'No build needed'"
 }
