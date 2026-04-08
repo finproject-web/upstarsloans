@@ -70,7 +70,7 @@ const Home = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <h2 className="text-4xl font-bold text-gray-900 mb-4">
-              Why Choose <span className="bg-gradient-to-r from-indigo-600 to-purple-600 bg-clip-text text-transparent">FinanceHub</span>
+              Why Choose <span className="bg-gradient-to-r from-indigo-600 to-purple-600 bg-clip-text text-transparent">upstarsloans</span>
             </h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
               We're committed to providing transparent, secure, and personalized financial solutions
@@ -501,7 +501,7 @@ const Home = () => {
             <div className="p-6 bg-white rounded-2xl shadow-lg border border-gray-200">
               <h3 className="font-semibold text-gray-900 mb-2 flex items-center">
                 <Lightbulb className="w-5 h-5 text-indigo-600 mr-2" />
-                How does FinanceHub work?
+                How does upstarsloans work?
               </h3>
               <p className="text-gray-600">We connect you with verified financial service providers based on your needs and profile.</p>
             </div>

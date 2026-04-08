@@ -49,7 +49,7 @@ const NewHeader = () => {
                 <TrendingUp className="w-6 h-6 text-white" />
               </div>
               <div>
-                <span className="text-2xl font-bold text-gray-900">FinanceHub</span>
+                <span className="text-2xl font-bold text-gray-900">upstarsloans</span>
                 <div className="text-xs text-gray-500 font-medium">Smart Financial Solutions</div>
               </div>
             </div>
@@ -270,7 +270,7 @@ const NewHeader = () => {
                   <TrendingUp className="w-6 h-6 text-white" />
                 </div>
                 <div>
-                  <span className="text-2xl font-bold text-gray-900">FinanceHub</span>
+                  <span className="text-2xl font-bold text-gray-900">upstarsloans</span>
                   <div className="text-xs text-gray-500 font-medium">Smart Financial Solutions</div>
                 </div>
               </div>
